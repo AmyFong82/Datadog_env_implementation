@@ -46,3 +46,5 @@ gem 'dotenv-rails'
 gem 'cuid'
 
 gem 'ddtrace', require: 'ddtrace/auto_instrument'
+
+gem 'google-protobuf', '~> 3.0'
