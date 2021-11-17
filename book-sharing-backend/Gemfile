@@ -44,3 +44,5 @@ gem 'jwt'
 gem 'dotenv-rails'
 
 gem 'cuid'
+
+gem 'ddtrace', require: 'ddtrace/auto_instrument'
